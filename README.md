@@ -1,5 +1,4 @@
 # The New Money Landscape
-A stablecoin monetary quality analysis. 
 
 ## Overview
 
